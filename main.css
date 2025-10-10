@@ -1,15 +1,15 @@
 .container{
-    background-color: aqua;
+    background-color:brown;
     height: 200px;
     justify-content: space-between;
 
 
 }
 .hi {
-    color: rgb(42, 85, 165);
+    color: black;
     text-align: center;
 }
 .p {
-    color: rgb(26, 14, 251);
+    color:black;
     text-align: center;
 }
