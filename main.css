@@ -1,56 +1,15 @@
-
-.btn1 {
-    color: blue;
-    background-color:transparent;
-    border: none;
-
-}
-.btn2 {
-    background-color:transparent ;
-    border: none;
-}
-.btn3 {
-    background-color:transparent ;
-    border: none;
-}
-.btn4 {
-    background-color:transparent ;
-    border: none;
-}
-.container {
-    background-color:#cbcbcb ;
-    display: flex;   
+.container{
+    background-color: aqua;
+    height: 200px;
     justify-content: space-between;
-   
 
 
 }
-.container1 {
-  display: flex;
-}
-.port {
-   margin-left: 1rem;
-   color: blue;
-}
-.box {
-  text-align: center;
-  margin-top: 5rem;
-}
-.developer {
+.hi {
+    color: rgb(42, 85, 165);
     text-align: center;
-   
 }
-.btn5 {
-   background-color: rgb(55, 55, 245);
-   color: azure;
-  padding: 10px;
-  border: none;
-  border-radius: 5px;
-}
-.btn6 {
-    padding: 10px;
-    border: 1px solid blue;
-    border-radius: 5px;
-    color: blue;
-    background-color: transparent;
+.p {
+    color: rgb(26, 14, 251);
+    text-align: center;
 }
