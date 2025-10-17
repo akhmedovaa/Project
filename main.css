@@ -96,3 +96,47 @@ h1 {
 .name {
     color: aqua;
 }
+.icon {
+    margin: 10px;
+   text-align: center;
+}
+.development {
+    background-color: aqua;
+}
+.section {
+    background-color: aqua;
+    text-align: center;
+    height: 300px;
+    padding: 30px;
+   
+}
+.ul-2 {
+    list-style: none;
+    margin: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.li1 {
+    border: 1px solid white;
+    border-radius:15px;
+    padding: 10px;
+    background-color: white;
+ 
+}
+.li2 {
+    border: 1px solid white;
+    padding: 10px;
+    margin: 10px;
+    background-color: white;
+    border-radius: 15px;
+
+}
+.li3 {
+    border: 1px solid white;
+    padding: 10px;
+    margin: 10px;
+    background-color: white;
+    border-radius: 15px;
+}
