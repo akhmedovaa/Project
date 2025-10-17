@@ -7,7 +7,7 @@ body {
     background-color: #f0f0f0;
 }
 header {
-align-items: center;
+/* align-items: center; */
 }
 .container {
     display: flex;
@@ -18,12 +18,15 @@ align-items: center;
     background-color: white;
     box-shadow: 8px;
     align-items: center;
+  
     
     
 }
 
 .container1 {
     display: flex;
+   
+    
   
 }
 .port {
@@ -37,6 +40,7 @@ align-items: center;
 }
 .developer {
     text-align: center;
+
    
 }
 .btn5 {
@@ -54,13 +58,40 @@ align-items: center;
     background-color: transparent;
 }
 .ul {
+    /* border: 1px solid red; */
+    padding: 10px;
+    margin: 10px;
+    list-style: none;
     display: flex;
-    border: 1px solid red;
+    
+   
    
    /* align-items: center; */
   
 
 }
 .li-1 {
-
+padding: 10px;
+color: blue;
+}
+.li-2 {
+padding: 10px;
+}
+.li-3 {
+padding: 10px;
+}
+.li-4 {
+padding: 10px;
+}
+.img {
+    width: 300px;
+}
+h1 {
+   margin: 20px; 
+}
+.p2 {
+    margin: 20px;
+}
+.name {
+    color: aqua;
 }
